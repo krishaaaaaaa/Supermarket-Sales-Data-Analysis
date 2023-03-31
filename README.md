@@ -46,5 +46,9 @@ Bivariate Analysis / Multivariate Analysis
 19. Which Product Line Is Purchased In The Highest Quantity?
 20. Display Daily Sales by Day of the Week
 21. What Will Be the Highest Months for Sales
-
+22. Visualize how hourly, monthly, branch wise and gender wise sales are affected
+23. Sales by the hour in the comapny
+24. check the relationship between customer type and rating
+25. customer types according to branch
+26. Relationship between customer type amd sales
 
